@@ -1,2 +1,5 @@
 .playwright-mcp/
 .loop/
+node_modules/
+dist/
+
